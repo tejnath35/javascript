@@ -1,0 +1,24 @@
+# Week 2 Exercises
+
+This folder contains JavaScript practice files for week 2. It includes exercises for dates, copying, ecommerce simulation, todo apps, and operation modules.
+
+Files:
+- `dates.js` : working with date objects and formatting
+- `shallow,deep-copy.js` : differences between shallow and deep copy
+- `ecommerce-todo/` : combined ecommerce and todo app examples
+  - `ecommerce/cart.js`
+  - `ecommerce/discount.js`
+  - `ecommerce/payment.js`
+  - `ecommerce/product.js`
+  - `ecommerce/shopapp.js`
+  - `todoapp/task.js`
+  - `todoapp/todoapp.js`
+  - `todoapp/validator.js`
+- `operations/` : module-based operations for cart, courses, roles, and users
+  - `cart-operations.js`
+  - `courses-operations.js`
+  - `roles-operations.js`
+  - `users-operations.js`
+
+Run the examples using Node.js:
+`node <filename>.js`

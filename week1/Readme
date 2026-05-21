@@ -1,0 +1,13 @@
+# Week 1 Exercises
+
+This folder contains JavaScript practice files for week 1. It includes exercises for operators, control statements, arrays, and objects.
+
+Files:
+- `operator.js` : operator usage and expressions
+- `control-statements.js` : if/else, switch, and conditional logic
+- `array-operations-simple.js` : basic array creation and access
+- `array-operations-advanced.js` : array methods and advanced operations
+- `object-operations-simple.js` : object creation, reading, and updating
+
+Run the examples using Node.js:
+`node <filename>.js`
