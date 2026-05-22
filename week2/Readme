@@ -30,9 +30,8 @@ week-2/
 │   ├── payment.js
 │   └── product.js
 │
-├── master-projects-on-collections/
-│   ├── data.js
-│   ├── module1.js
+├── operations/
+│   ├── cart-operation.js
 │   ├── module2.js
 │   ├── module3.js
 │   └── module4.js
