@@ -1,6 +1,6 @@
 # JavaScript Assignments — Week 1
 
-## 📘 About This Repository
+## About This Repository
 
 This repository contains beginner-to-intermediate JavaScript practice programs focused on:
 
@@ -25,11 +25,11 @@ The programs simulate practical scenarios like:
 
 ---
 
-# 📚 Concepts Covered
+# Concepts Covered
 
 ---
 
-# 1️⃣ Arrays in JavaScript
+# Arrays in JavaScript
 
 Arrays store multiple values in a single variable.
 
@@ -55,7 +55,7 @@ const temperatures = [32, 35, 28];
 
 ---
 
-# 2️⃣ Arrays of Objects
+# Arrays of Objects
 
 Used to store structured data.
 
@@ -78,7 +78,7 @@ const users = [
 
 ---
 
-# 3️⃣ Arrow Functions
+# Arrow Functions
 
 Short syntax for writing functions.
 
@@ -104,7 +104,7 @@ marks.map(mark => mark + 5)
 
 ---
 
-# 4️⃣ `filter()` Method
+# `filter()` Method
 
 Used to return elements matching a condition.
 
@@ -142,7 +142,7 @@ movies.filter(movie => movie.genre === "Sci-Fi")
 
 ---
 
-# 5️⃣ `map()` Method
+# `map()` Method
 
 Used to transform array elements.
 
@@ -183,7 +183,7 @@ students.map(student => {
 
 ---
 
-# 6️⃣ `reduce()` Method
+# `reduce()` Method
 
 Used to reduce array values into a single output.
 
@@ -230,7 +230,7 @@ transactions.reduce((bal, t) => {
 
 ---
 
-# 7️⃣ `find()` Method
+# `find()` Method
 
 Returns the first matching element.
 
@@ -255,7 +255,7 @@ movies.find(movie => movie.title === "Joker")
 
 ---
 
-# 8️⃣ `findIndex()` Method
+# `findIndex()` Method
 
 Returns the index of the matching element.
 
@@ -280,7 +280,7 @@ courses.findIndex(course => course === "node")
 
 ---
 
-# 9️⃣ Conditional Statements
+# Conditional Statements
 
 Used for decision-making.
 
@@ -355,7 +355,7 @@ if(price < 500){
 
 ---
 
-# 🔟 Ternary Operator
+# Ternary Operator
 
 Short form of `if...else`.
 
@@ -381,7 +381,7 @@ hasPaid === true && hasCompletedBasics === true
 
 ---
 
-# 1️⃣1️⃣ Logical Operators
+# Logical Operators
 
 Used to combine conditions.
 
@@ -404,7 +404,7 @@ isLoggedIn == true && isProfileComplete == false
 
 ---
 
-# 1️⃣2️⃣ Objects in JavaScript
+# Objects in JavaScript
 
 Objects store data as key-value pairs.
 
@@ -425,7 +425,7 @@ const user = {
 
 ---
 
-# 1️⃣3️⃣ Object Operations
+# Object Operations
 
 ## Accessing Properties
 
@@ -471,7 +471,7 @@ Object.freeze(settings)
 
 ---
 
-# 1️⃣4️⃣ Loops — `for...in`
+# Loops — `for...in`
 
 Used to iterate through object properties.
 
@@ -498,7 +498,7 @@ for(let i in marks){
 
 ---
 
-# 1️⃣5️⃣ Functions
+# Functions
 
 Reusable blocks of code.
 
@@ -528,7 +528,7 @@ function courseDecider(price){
 
 ---
 
-# 1️⃣6️⃣ Arithmetic Operators
+# Arithmetic Operators
 
 Used for mathematical operations.
 
@@ -549,7 +549,7 @@ totalAmount -= 200
 
 ---
 
-# 1️⃣7️⃣ Assignment Operators
+# Assignment Operators
 
 Used to update variable values.
 
@@ -567,9 +567,9 @@ totalAmount += 1200
 
 ---
 
-# 1️⃣8️⃣ Real-World Example Scenarios Covered
+# Real-World Example Scenarios Covered
 
-## 🛒 Shopping Cart System
+## Shopping Cart System
 
 Concepts:
 
@@ -579,7 +579,7 @@ Concepts:
 
 ---
 
-## 🎓 Student Grade System
+## Student Grade System
 
 Concepts:
 
@@ -589,7 +589,7 @@ Concepts:
 
 ---
 
-## 🏦 Banking Transaction Analyzer
+## Banking Transaction Analyzer
 
 Concepts:
 
@@ -598,7 +598,7 @@ Concepts:
 
 ---
 
-## 🌡 Temperature Analyzer
+## Temperature Analyzer
 
 Concepts:
 
@@ -608,7 +608,7 @@ Concepts:
 
 ---
 
-## 🔐 Login Status Engine
+## Login Status Engine
 
 Concepts:
 
@@ -617,7 +617,7 @@ Concepts:
 
 ---
 
-## 💳 Billing System
+## Billing System
 
 Concepts:
 
@@ -626,30 +626,30 @@ Concepts:
 
 ---
 
-# 🚀 Skills Practiced
+# Skills Practiced
 
 By completing these programs, you practiced:
 
-✅ Problem-solving
-✅ Data manipulation
-✅ Functional programming basics
-✅ Real-world JavaScript logic
-✅ Writing clean callback functions
-✅ Object handling
-✅ Decision making
-✅ Array traversal techniques
-✅ Basic business logic implementation
+Problem-solving
+Data manipulation
+Functional programming basics
+Real-world JavaScript logic
+Writing clean callback functions
+Object handling
+Decision making
+Array traversal techniques
+Basic business logic implementation
 
 ---
 
-# 🛠 Technologies Used
+# Technologies Used
 
 * JavaScript (ES6)
 * Node.js runtime / Browser Console
 
 ---
 
-# 📌 Key JavaScript Methods Covered
+# Key JavaScript Methods Covered
 
 | Method            | Purpose           |
 | ----------------- | ----------------- |
@@ -663,7 +663,7 @@ By completing these programs, you practiced:
 
 ---
 
-# 📖 Conclusion
+# Conclusion
 
 This Week 1 assignment collection focuses heavily on:
 
