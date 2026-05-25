@@ -1,6 +1,6 @@
 # JavaScript Assignments — Week 2
 
-## 📘 About This Repository
+## About This Repository
 
 This repository contains multiple JavaScript mini-projects and hands-on assignments focused on:
 
@@ -18,7 +18,7 @@ The assignments are designed to simulate practical software development scenario
 
 ---
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```txt id="1e3v0k"
 week-2/
@@ -50,7 +50,7 @@ week-2/
 
 ---
 
-# 🚀 Major Concepts Covered
+# Major Concepts Covered
 
 This repository focuses heavily on:
 
@@ -67,9 +67,9 @@ This repository focuses heavily on:
 
 ---
 
-# 📦 1️⃣ E-Commerce Store Project
+# E-Commerce Store Project
 
-## 📌 Overview
+## Overview
 
 This project simulates a complete e-commerce backend workflow using JavaScript modules.
 
@@ -86,7 +86,7 @@ Features implemented:
 
 ---
 
-## 📚 Concepts Covered
+## Concepts Covered
 
 ### ES6 Modules
 
@@ -117,7 +117,7 @@ export function getCartTotal() {
 
 ---
 
-## 🛒 Features Implemented
+## Features Implemented
 
 ### Product Management
 
@@ -149,20 +149,20 @@ processPayment("upi", "WELCOME10")
 
 ---
 
-## 🧠 Skills Practiced
+## Skills Practiced
 
-✅ Inventory handling
-✅ Cart state management
-✅ Payment workflows
-✅ Coupon systems
-✅ Modular architecture
-✅ E-commerce business logic
+Inventory handling
+Cart state management
+Payment workflows
+Coupon systems
+Modular architecture
+E-commerce business logic
 
 ---
 
-# 📚 2️⃣ Master Projects on Collections
+# Master Projects on Collections
 
-## 📌 Overview
+## Overview
 
 This folder contains advanced collection-based mini-projects focused on:
 
@@ -175,7 +175,7 @@ This folder contains advanced collection-based mini-projects focused on:
 
 ---
 
-# 📖 Module 1 — User Management
+# Module 1 — User Management
 
 ## Features
 
@@ -211,7 +211,7 @@ let copyUsers = structuredClone(users)
 
 ---
 
-# 📖 Module 2 — Course Collection System
+# Module 2 — Course Collection System
 
 ## Features
 
@@ -249,7 +249,7 @@ courses.reduce((sum, course) =>
 
 ---
 
-# 📖 Module 3 — Cart & Course Merging
+# Module 3 — Cart & Course Merging
 
 ## Features
 
@@ -286,7 +286,7 @@ let copyCart = structuredClone(cart)
 
 ---
 
-# 📖 Module 4 — Role & Permission Engine
+# Module 4 — Role & Permission Engine
 
 ## Features
 
@@ -325,20 +325,20 @@ if(!unique[perm]){
 
 ---
 
-## 🧠 Skills Practiced
+## Skills Practiced
 
-✅ Collection transformations
-✅ Access control systems
-✅ Immutable programming
-✅ Data normalization
-✅ Permission engines
-✅ Complex object handling
+Collection transformations
+Access control systems
+Immutable programming
+Data normalization
+Permission engines
+Complex object handling
 
 ---
 
-# ✅ 3️⃣ Todo App Project
+# Todo App Project
 
-## 📌 Overview
+## Overview
 
 This project implements a simple task management system using JavaScript modules.
 
@@ -352,7 +352,7 @@ Features include:
 
 ---
 
-# 📚 Concepts Covered
+# Concepts Covered
 
 ## Module-Based Architecture
 
@@ -374,7 +374,7 @@ validateDueDate()
 
 ---
 
-# 📖 Validation System
+# Validation System
 
 ## Title Validation
 
@@ -396,7 +396,7 @@ new Date(date)
 
 ---
 
-# 📖 Task Management Logic
+# Task Management Logic
 
 ## Add Tasks
 
@@ -422,23 +422,23 @@ tasks.find(task => task.taskid === taskId)
 
 ---
 
-## 🧠 Skills Practiced
+## Skills Practiced
 
-✅ Modular programming
-✅ Input validation
-✅ Task management logic
-✅ State handling
-✅ Real-world productivity app logic
+Modular programming
+Input validation
+Task management logic
+State handling
+Real-world productivity app logic
 
 ---
 
-# 📅 4️⃣ Date Handling Assignments
+# Date Handling Assignments
 
 These files focus on JavaScript `Date` object manipulation and validation.
 
 ---
 
-# 📖 date-1.js — Date Creation & Extraction
+# date-1.js — Date Creation & Extraction
 
 ## Concepts Covered
 
@@ -464,7 +464,7 @@ DD-MM-YYYY HH:mm:ss
 
 ---
 
-# 📖 date-2.js — Date Comparison & Validation
+# date-2.js — Date Comparison & Validation
 
 ## Features
 
@@ -496,7 +496,7 @@ date.getFullYear() === year
 
 ---
 
-# 📖 date-3.js — Age Calculator
+# date-3.js — Age Calculator
 
 ## Features
 
@@ -522,23 +522,23 @@ today.getMonth() < date.getMonth()
 
 ---
 
-## 🧠 Skills Practiced
+## Skills Practiced
 
-✅ Date manipulation
-✅ Time comparisons
-✅ Real-world validations
-✅ Formatting dates
-✅ Age calculations
+Date manipulation
+Time comparisons
+Real-world validations
+Formatting dates
+Age calculations
 
 ---
 
-# 🔄 5️⃣ Shallow Copy vs Deep Copy
+# Shallow Copy vs Deep Copy
 
 These assignments demonstrate object cloning concepts in JavaScript.
 
 ---
 
-# 📖 shallowcpy.js — Shallow Copy
+# shallowcpy.js — Shallow Copy
 
 ## Concepts Covered
 
@@ -563,7 +563,7 @@ userCopy.preferences.theme = "light"
 
 ---
 
-# 📖 deepcopy.js — Deep Copy
+# deepcopy.js — Deep Copy
 
 ## Concepts Covered
 
@@ -588,7 +588,7 @@ orderCopy.customer.address.city = "Karimnagar"
 
 ---
 
-# 📚 JavaScript Methods & Features Covered
+# JavaScript Methods & Features Covered
 
 | Concept                 | Usage                |
 | ----------------------- | -------------------- |
@@ -608,7 +608,7 @@ orderCopy.customer.address.city = "Karimnagar"
 
 ---
 
-# 🛠 Technologies Used
+# Technologies Used
 
 * JavaScript (ES6)
 * Node.js
@@ -616,7 +616,7 @@ orderCopy.customer.address.city = "Karimnagar"
 
 ---
 
-# 🧠 Real-World Systems Simulated
+# Real-World Systems Simulated
 
 | Project           | Real-World Concept         |
 | ----------------- | -------------------------- |
@@ -629,24 +629,24 @@ orderCopy.customer.address.city = "Karimnagar"
 
 ---
 
-# 🚀 Skills Developed
+# Skills Developed
 
 By completing these assignments, you practiced:
 
-✅ Functional Programming
-✅ Collection Manipulation
-✅ Business Logic Building
-✅ Modular JavaScript Development
-✅ Immutable Data Handling
-✅ Input Validation
-✅ Inventory & Cart Systems
-✅ Access Control Logic
-✅ Date Handling
-✅ Object Cloning Concepts
+Functional Programming
+Collection Manipulation
+Business Logic Building
+Modular JavaScript Development
+Immutable Data Handling
+Input Validation
+Inventory & Cart Systems
+Access Control Logic
+Date Handling
+Object Cloning Concepts
 
 ---
 
-# 📖 Conclusion
+# Conclusion
 
 This Week 2 repository focuses heavily on:
 
